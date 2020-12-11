@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1607685190 source:c:\users\33766\desktop\workspace\modbusontcp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MBMESN_TCP.h"
+	"MBMESN_SlavePDU.h"
+
+1607608036 source:c:\users\33766\desktop\workspace\modbusontcp\mbmesn_slavepdu.c
+	<stdio.h>
+	"MBMESN_SlavePDU.h"
+	"MBMESN_errorstatus.h"
+
+1607608036 c:\users\33766\desktop\workspace\modbusontcp\mbmesn_slavepdu.h
+	<stdint.h>
+	<string.h>
+	"MBMESN_errorstatus.h"
+
+1607615248 c:\users\33766\desktop\workspace\modbusontcp\mbmesn_errorstatus.h
+
+1607680635 c:\users\33766\desktop\workspace\modbusontcp\mbmesn_tcp.h
+	<stdint.h>
+	"MBMESN_errorstatus.h"
+
+1607681506 source:c:\users\33766\desktop\workspace\modbusontcp\mbmesn_tcp.c
+	<stdio.h>
+	<winsock.h>
+	"MBMESN_TCP.h"
+	<stdio.h>
+	<stdlib.h>
+
